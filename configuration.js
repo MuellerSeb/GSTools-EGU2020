@@ -1,6 +1,6 @@
 var Config = {
-    title: "Sample Lecture",
-    url: "https://mmaelicke.github.io/sample-lecture",
+    title: "GSTools EGU2020 Presentation",
+    url: "https://muellerseb.github.io/GSTools-EGU2020",
     navigation: [
         {
             label: "Home",
@@ -8,28 +8,13 @@ var Config = {
             type: "static"
         },
         {
-            label: "Notebooks",
-            navigation: [
-                {
-                    label: "Introduction",
-                    link: "Introduction.html",
-                    github: "https://github.com/mmaelicke/sample-lecture/blob/master/Introduction.ipynb",
-                    binder: "https://mybinder.org/v2/gh/mmaelicke/sample-lecture/master?filepath=Introduction.ipynb"
-                }
-            ]
-        },
-        {
             label: "Presentations",
             navigation: [
                 {
-                    label: "Introduction",
-                    link: "Introduction.slides.html"
+                    label: "GSTools EGU2020",
+                    link: "EGU2020.slides.html"
                 }
             ]
-        },
-        {
-            label: "Exercises",
-            navigation: []
         },
         {
             label: "About",
