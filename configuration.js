@@ -8,8 +8,13 @@ var Config = {
             type: "static"
         },
         {
-            label: "Presentation",
-            link: "EGU2020.slides.html
+            label: "Presentations",
+            navigation: [
+                {
+                    label: "GSTools EGU2020",
+                    link: "EGU2020.slides.html"
+                }
+            ]
         }
     ]
 };
