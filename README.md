@@ -13,15 +13,6 @@
 
 ## The Python toolbox for your geo-statistical project!
 
-Welcome to the GSTools EGU 2020 showcase. You can start the presentation by clicking on **Presentation** in the upper navigation bar.
+Welcome to the GSTools EGU 2020 showcase. To start the online presentation, use the following link:
 
-GeoStatTools provides geostatistical tools for random field generation, kriging and variogram estimation based on many readily provided and even user-defined covariance models.
-
-A short overview on what is provided:
-- covariance models (many readily provided and even user-defined models with a lot of functionality)
-- random field generation (multigaussian and in-compressible vector fields)
-- field transformations (boxcox, Zinn and Harvey, log-normal, binary)
-- kriging (simple, ordinary, universal, external drift or detrended)
-- variogram estimation (Cressie and Matheron estimators)
-- I/O routines (interfaces to pyvista and meshio for mesh support)
-- plotting routines (inspect your covariance model or random field on the fly)
+https://muellerseb.github.io/GSTools-EGU2020/
