@@ -1,6 +1,7 @@
 var Config = {
     title: "GSTools EGU2020 Presentation",
     url: "https://muellerseb.github.io/GSTools-EGU2020",
+    "homeUrl": "https://geostat-framework.readthedocs.io/projects/gstools/",
     navigation: [
         {
             label: "Home",
