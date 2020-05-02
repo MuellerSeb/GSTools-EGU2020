@@ -15,7 +15,7 @@ on:
 jobs:
   # Publish the application on github pages
   publish:
-    # use ubuntu
+    # use ubuntu 18.04
     runs-on: ubuntu-18.04
 
     steps:
@@ -52,7 +52,11 @@ jobs:
       run: | 
         mv ./nb/* ./dist/nb
         mv configuration.js ./dist/configuration.js
-        
+        [ -d ./static ] && mv ./static/* ./dist/static/* 
+        [ -f ./index.md ] && mv index.md ./dist/static/index.md
+        #[ -d ./img ] && mv ./img ./dist/img
+    
+    # Deploy to Github Pages
     - name: Deploy
       uses: crazy-max/ghaction-github-pages@v1
       with:
