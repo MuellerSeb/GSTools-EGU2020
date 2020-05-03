@@ -4,7 +4,7 @@
 [![PyPI version](https://badge.fury.io/py/gstools.svg)](https://badge.fury.io/py/gstools)
 [![Conda Version](https://img.shields.io/conda/vn/conda-forge/gstools.svg)](https://anaconda.org/conda-forge/gstools)
 [![Documentation Status](https://readthedocs.org/projects/gstools/badge/?version=stable)](https://geostat-framework.readthedocs.io/projects/gstools/en/stable/?badge=stable)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmaelicke/sample-lecture/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MuellerSeb/GSTools-EGU2020/master)
 [![Notebook-Classrom](https://github.com/mmaelicke/sample-lecture/workflows/Notebook-Classrom/badge.svg)](https://mmaelicke.github.io/sample-lecture)
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## The Python toolbox for your geo-statistical project!
 
-Welcome to the GSTools EGU 2020 showcase. You can start the presentation by clicking on **Presentation** in the upper navigation bar.
+Welcome to the GSTools EGU 2020 showcase. You can start the presentation by clicking on **Presentations** in the upper navigation bar.
 
 GeoStatTools provides geostatistical tools for random field generation, kriging and variogram estimation based on many readily provided and even user-defined covariance models.
 

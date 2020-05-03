@@ -4,7 +4,7 @@
 [![PyPI version](https://badge.fury.io/py/gstools.svg)](https://badge.fury.io/py/gstools)
 [![Conda Version](https://img.shields.io/conda/vn/conda-forge/gstools.svg)](https://anaconda.org/conda-forge/gstools)
 [![Documentation Status](https://readthedocs.org/projects/gstools/badge/?version=stable)](https://geostat-framework.readthedocs.io/projects/gstools/en/stable/?badge=stable)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmaelicke/sample-lecture/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MuellerSeb/GSTools-EGU2020/master)
 [![Notebook-Classrom](https://github.com/mmaelicke/sample-lecture/workflows/Notebook-Classrom/badge.svg)](https://mmaelicke.github.io/sample-lecture)
 
 <p align="center">
